@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy! 👋
+
+I am currently the Technology Director for Albany ISD and lead the UIL Computer Science Team.  I have also checked out Harvard's CS50.  We may do some other things.  We'll see!
 
 <!--
 **Whyzdom/Whyzdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
